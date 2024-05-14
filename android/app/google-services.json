@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373704524087",
+    "project_id": "priloco-ea3f4",
+    "storage_bucket": "priloco-ea3f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373704524087:android:10f553c389d922f361dab2",
+        "android_client_info": {
+          "package_name": "com.company.priloco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIDzqSWH7Sow4WZOOFjouOWjozacYMU_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
